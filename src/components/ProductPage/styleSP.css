@@ -1,0 +1,95 @@
+.main{
+	display: flex;
+	flex-direction: row;
+	margin-left: 20%;
+	margin-right: 15%;
+
+}
+.img{
+	border: solid black;
+	height: 450px;
+	width: 400px;
+	margin-top: 40px;
+}
+.information{
+	display: flex;
+	flex-direction: column;
+	margin-left: 10%;
+}
+.sizepicker{
+	display: flex;
+	flex-direction: row;
+
+}
+.size-item{
+	border: solid gray;
+	margin: 10px;
+	height: 20px;
+	width: 30px;
+	text-align: center;
+
+}
+.size-item:hover{
+	cursor: pointer;
+}
+.amountpicker{
+	display: flex;
+	flex-direction: row;
+	/*height: 25px;*/
+	border-radius: 5px;
+	margin: 0;
+}
+.amountpicker h4{
+	margin-right: 20px;
+	padding-top: 5px;
+}
+
+.amount-b{
+	background-color: #ebebe0 ;
+	/*width: 40px;*/
+	border: none;
+	color: black;
+	font-weight: 500;
+	height: 25px;
+}
+.amount-b:hover{
+	cursor: pointer;
+	border: none;
+}
+.buy-button{
+	color: white;
+	padding: center;
+	background-color: black;
+	height: 50px;
+	width: 200px;
+	
+}
+.buy-button:hover{
+	cursor: pointer;
+}
+#pop-up{
+	font-family: 'Quicksand', sans-serif;
+	display: none;
+}
+
+.actived{
+	border: solid #1a8cff;
+}
+.starElements{
+	display: flex;
+	position: relative;
+	/*flex-direction: row;*/
+	left: 0;
+	align-self: flex-start;
+	/*margin-left: -100px;*/
+
+}
+.fa-star{
+	font-size: 25px;
+}
+.fa-star:hover{
+	cursor: pointer;
+}
+.checked{
+	/*color: white;*/
+}

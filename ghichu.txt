@@ -1,0 +1,134 @@
+Nên chuyển đổi list thành sản phẩm chung, mỗi sản phẩm thêm 1 trường là type để phân loại sản phẩm, chứ đừng chia ra mỗi sản phẩm 1 list, trông rất ngu
+
+[
+ {
+  "name": "Áo tranh nghệ thuật",
+  "price": 300000,
+  "amount": 30,
+  "size": 27,
+  "img": "imgs/ao1.jpg",
+  "description": "description 1",
+  "rating":0,
+  "id": "1"
+ },
+ {
+  "name": "Áo phông đen HADES",
+  "price": 200000,
+  "amount": 4,
+  "size": 64,
+  "img": "imgs/ao2.jpg",
+  "description": "description 2",
+  "rating":0,
+  "id": "2"
+ },
+ {
+  "name": "Áo phông trắng chữ HADES",
+  "price": 240000,
+  "amount": 2,
+  "size": 75,
+  "img": "imgs/ao3.jpg",
+  "description": "description 3",
+  "rating":0,
+  "id": "3"
+ },
+ {
+  "name": "Áo đầu lâu",
+  "price": 380000,
+  "amount": 94,
+  "size": 13,
+  "img": "imgs/ao4.jpg",
+  "description": "description 4",
+  "rating":0,
+  "id": "4"
+ },
+ {
+  "name": "Unlucky in love T shirt",
+  "price": 320000,
+  "amount": 22,
+  "size": 94,
+  "img": "imgs/ao5.jpg",
+  "description": "description 5",
+  "rating":0,
+  "id": "5"
+ },
+ {
+  "name": "Áo HADES 2021 đỏ",
+  "price": 230000,
+  "amount": 8,
+  "size": 63,
+  "img": "imgs/ao6.jpg",
+  "description": "description 6",
+  "rating":0,
+  "id": "6"
+ },
+ {
+  "name": "Áo HADES Cách Kiểu",
+  "price": 250000,
+  "amount": 85,
+  "size": 15,
+  "img": "imgs/ao7.jpg",
+  "description": "description 7",
+  "rating":0,
+  "id": "7"
+ },
+ {
+  "name": "EZY STREET SWE TEE",
+  "price": 230000,
+  "amount": 83,
+  "size": 35,
+  "img": "imgs/ao8.jpg",
+  "description": "description 8",
+  "rating":0,
+  "id": "8"
+ },
+ {
+  "name": "POKER SWE TEE",
+  "price": 270000,
+  "amount": 25,
+  "size": 95,
+  "img": "imgs/ao9.jpg",
+  "description": "description 9",
+  "rating":0,
+  "id": "9"
+ },
+ {
+  "name": "SWE TEE",
+  "price": 270000,
+  "amount": 77,
+  "size": 46,
+  "img": "imgs/ao10.jpg",
+  "description": "description 10",
+  "rating":0,
+  "id": "10"
+ },
+ {
+  "name": "SKELETON SWE TEE",
+  "price": 290000,
+  "amount": 36,
+  "size": 46,
+  "img": "imgs/ao11.jpg",
+  "description": "description 11",
+  "rating":0,
+  "id": "11"
+ },
+ {
+  "name": "FLASH LIGHT SWE TEE",
+  "price": 270000,
+  "amount": 77,
+  "size": 46,
+  "img": "imgs/ao12.jpg",
+  "description": "description 12",
+  "rating":0,
+  "id": "12"
+ },
+ {
+  "name": "SWE CARDIGAN",
+  "price": 320000,
+  "amount": 32,
+  "size": 46,
+  "img": "imgs/ao13.jpg",
+  "description": "description 13",
+  "rating":0,
+  "id": "13"
+ }
+]

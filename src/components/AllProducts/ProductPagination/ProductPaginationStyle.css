@@ -1,0 +1,54 @@
+.item{
+	height: 500px;
+	width: 33%;
+	margin-bottom: 50px;
+}
+.item img{
+	align-self: center;
+}
+.itemBlock{
+	margin-left: 30px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.paginationBlock{
+	position: relative;
+	bottom: 20px;
+	left: 50%;
+	width: 200px;
+	display: flex;
+	flex-direction: row;
+}
+.pagination{
+	vertical-align: center;
+	text-align: center;
+	/*border: solid black 1px;*/
+	text-decoration: none;
+	font-size: 20px;
+	margin-right: 20px;
+
+}
+.pagination:hover{
+	/*text-decoration: underline;*/
+}
+.paginationA:hover{
+	color: black;
+	font-weight: 600;
+	cursor: pointer;
+	/*text-decoration: underline;*/
+}
+.nextButton{
+	color: gray;
+	background-color: ;
+	text-decoration: none;
+	font-weight: 800;
+}
+.nextButton:hover{
+	color: black;
+}
+h2{
+	font-family: 'Quicksand';
+	margin-left: 20px;
+	font-weight: 700;
+}

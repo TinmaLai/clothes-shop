@@ -1,0 +1,42 @@
+.item-lists{
+	display: flex;
+	flex-direction: row;
+	margin-left: 4%;
+	justify-content: space-between;
+	margin-right: 4%;
+}
+.shirts-lists{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.xem-them:hover{
+	cursor: pointer;
+	text-decoration: underline;
+}
+.item{
+	text-decoration: none;
+	color: black;
+}
+.item h2{
+	font-weight: 400;
+}
+.item h3{
+	color: red;
+	font-weight: 350;
+}
+.product-img{
+	height: 380px;
+	width: 350px;
+}
+.starBlock{
+	/*position: absolute;*/
+	align-self: center;
+	/*left: 200px;*/
+
+}
+.star{
+	color: yellow;
+	/*align-self: center;*/
+
+}

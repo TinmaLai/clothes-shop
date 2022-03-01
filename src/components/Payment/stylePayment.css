@@ -1,0 +1,36 @@
+.maina{
+	margin-left: 10%;
+	display: flex;
+	flex-direction: column;
+	margin-right: 5%;
+	margin-top: 20px;
+}
+.mainTable{
+	width: 1200px;
+}
+.cartA{
+	text-align: center;
+}
+.cart-b{
+	border: none 15px;
+	height: 30px;
+	width: 50px;
+	font-size: 15px;
+	background-color: #ff3333;
+	color: white;
+}
+.cart-b:hover{
+	cursor: pointer;
+}
+.payment{
+	height: 50px;
+	width: 200px;
+	font-size: 20px;
+	color: white;
+	background-color: black;
+	margin-left: 8%;
+	margin-top: 5%;
+}
+.payment:hover{
+	cursor: pointer;
+}
